@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+*.suo
+appsettings.Development.json
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Misc
+.DS_Store
+*.log
