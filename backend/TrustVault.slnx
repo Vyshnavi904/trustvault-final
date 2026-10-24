@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TrustVault.API/TrustVault.API.csproj" />
+    <Project Path="src/TrustVault.Core/TrustVault.Core.csproj" />
+    <Project Path="src/TrustVault.Infrastructure/TrustVault.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TrustVault.Tests/TrustVault.Tests.csproj" />
+  </Folder>
+</Solution>
